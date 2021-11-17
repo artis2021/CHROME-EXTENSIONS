@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "SpeakIt",
+    "version": "1.0",
+    "description":"Speak the selected Text",
+    "icons": {
+        "128": "icon128.png",
+        "48": "icon48.png",
+        "16": "icon16.png"
+    },
+    "background": {
+        "scripts": [
+            "eventPage.js"
+        ],
+        "persistent": false
+    },
+    "permissions": [
+        "tabs",
+        "contextMenus"
+    ]
+}
