@@ -1,5 +1,5 @@
 # CHROME-EXTENSIONS
-HEY THERE ! this is my first projects on chrome extensions.This project consists five interseting projects.these are the -
+HEY THERE ! this is my first project on chrome extensions.This project consists five interseting extensions.these are the -
 1-Hello world
 2-BUDGETMANAGER
 3-PAGEFONTSTYLE
